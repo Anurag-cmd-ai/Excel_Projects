@@ -1,5 +1,5 @@
-# Excel Powered Dashboards
-# 1 Swiggy Sales Dashboard
+# Excel Powered Analysis and Dashboards
+# 1 Swiggy Sales Analysis
 
 I’m excited to share my latest project: An interactive 'Swiggy Sales Dashboard' built entirely in Excel!
 
@@ -19,7 +19,7 @@ Check out the snapshot below!
 #DataAnalysis #ExcelExpert #DashboardDesign #BusinessInsights #SalesTracking
 
 ==========================================================================================================================================================================================================
-# 2 ☕ Coffee Shop Sales Dashboard
+# 2 ☕ Coffee Shop Sales Analysis
 
 I’m excited to share my latest project: An interactive Coffee Shop Sales Dashboard built entirely in Excel!
 
